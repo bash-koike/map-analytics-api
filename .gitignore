@@ -1,5 +1,9 @@
 
+*.zip
+/app/site-packages
+/config
 /doc
+/site-packages
 /.vscode
 
 # Created by https://www.gitignore.io/api/macos,python
